@@ -1,0 +1,14 @@
+{
+  "name": "insalt-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@roof-cat/insalt-encryptor": "https://github.com/roof-cat/insalt-encryptor.git",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  }
+}
